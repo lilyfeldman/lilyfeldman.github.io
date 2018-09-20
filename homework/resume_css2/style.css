@@ -5,6 +5,9 @@ a {
 p {
 
 }
+.sectionheading {
+  color:blue;
+}
 address {
   font-size: 18px;
 }
@@ -22,8 +25,14 @@ a:hover {
   font-weight: bold;
   color: black;
 }
-.border
+.border {}
 
 .box {
-  border: 4px solid white;
+  border: 4px solid black;
+}
+p {
+  font-size: 20px;
+}
+.leftborder {
+  border-left: 2px dotted blue;
 }
