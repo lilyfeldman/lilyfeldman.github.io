@@ -1,0 +1,29 @@
+a {
+  color: pink;
+  text-decoration: none;
+}
+p {
+
+}
+address {
+  font-size: 18px;
+}
+
+.customlist {
+  color:purple;
+}
+html {
+  background-color: #eeb71c;
+}
+#maintitle,h3 {
+font-family: 'Oswald', sans-serif;
+}
+a:hover {
+  font-weight: bold;
+  color: black;
+}
+.border
+
+.box {
+  border: 4px solid white;
+}
