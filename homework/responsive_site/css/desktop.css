@@ -1,0 +1,13 @@
+.left{
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+.right {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+nav{
+  float: right;
+}

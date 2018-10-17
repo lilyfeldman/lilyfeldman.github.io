@@ -1,0 +1,27 @@
+ul{
+  width: 100%;
+}
+ul li {
+  list-style-type: none;
+  display: inline;
+  width: 100%;
+  height: 60px;
+}
+ul li a {
+  width:100%;
+  display: block;
+}
+.left, .right{
+  display: block;
+  width: 100%;
+  border: 1px;
+  margin-bottom: 20px;
+}
+nav{
+  display: right;
+  background: black;
+  font-family: 'Oswald', sans-serif;
+  padding: 5px;
+  text-decoration: none;
+margin-bottom: 10px;
+}
